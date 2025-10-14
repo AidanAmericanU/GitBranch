@@ -1,0 +1,11 @@
+---
+title: "gitbranching"
+format: html
+editor: visual
+---
+```{r}
+# Branching allows you to evolve your code without risking the Main branch
+# It can create new branches, make edits, and push them to the main branch
+
+
+```
