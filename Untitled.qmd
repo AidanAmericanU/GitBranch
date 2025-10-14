@@ -8,4 +8,7 @@ editor: visual
 # It can create new branches, make edits, and push them to the main branch
 
 #This is a test line
+#Merge
+
+# Here
 ```
